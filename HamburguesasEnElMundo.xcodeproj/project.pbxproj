@@ -12,6 +12,8 @@
 		EB4FB9DE1D7E58D200A2AFD0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB4FB9DC1D7E58D200A2AFD0 /* Main.storyboard */; };
 		EB4FB9E01D7E58D200A2AFD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB4FB9DF1D7E58D200A2AFD0 /* Assets.xcassets */; };
 		EB4FB9E31D7E58D200A2AFD0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB4FB9E11D7E58D200A2AFD0 /* LaunchScreen.storyboard */; };
+		EB4FB9EB1D7E5A9900A2AFD0 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4FB9EA1D7E5A9900A2AFD0 /* Datos.swift */; };
+		EB4FB9EE1D7E60D900A2AFD0 /* Colores.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4FB9ED1D7E60D900A2AFD0 /* Colores.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		EB4FB9DF1D7E58D200A2AFD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB4FB9E21D7E58D200A2AFD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB4FB9E41D7E58D200A2AFD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB4FB9EA1D7E5A9900A2AFD0 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		EB4FB9ED1D7E60D900A2AFD0 /* Colores.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colores.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				EB4FB9DF1D7E58D200A2AFD0 /* Assets.xcassets */,
 				EB4FB9E11D7E58D200A2AFD0 /* LaunchScreen.storyboard */,
 				EB4FB9E41D7E58D200A2AFD0 /* Info.plist */,
+				EB4FB9EA1D7E5A9900A2AFD0 /* Datos.swift */,
+				EB4FB9ED1D7E60D900A2AFD0 /* Colores.swift */,
 			);
 			path = HamburguesasEnElMundo;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				EB4FB9DB1D7E58D200A2AFD0 /* ViewController.swift in Sources */,
 				EB4FB9D91D7E58D200A2AFD0 /* AppDelegate.swift in Sources */,
+				EB4FB9EB1D7E5A9900A2AFD0 /* Datos.swift in Sources */,
+				EB4FB9EE1D7E60D900A2AFD0 /* Colores.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
